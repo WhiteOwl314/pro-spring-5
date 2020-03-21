@@ -1,5 +1,7 @@
 package com.apress.prospring5.ch2;
 
+import com.apress.prospring5.ch2.decoupled.StandardOutMessageRenderer;
+
 public class HelloWorld {
     //main 의 이름을 바꾸면 실행이 안되는 것을 알 수 있다.
     //실행파일의 이름은 main으로 고정되어 있는 것을 볼 수 있다.
